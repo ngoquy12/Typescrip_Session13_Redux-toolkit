@@ -1,0 +1,24 @@
+.form-container {
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-item {
+  background-color: #fff;
+  width: 400px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}

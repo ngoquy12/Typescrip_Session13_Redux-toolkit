@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Cam",
+      "price": 100000,
+      "from": "Hà Nội"
+    },
+    {
+      "id": 2,
+      "product_name": "Mận",
+      "price": 150000,
+      "from": "Hà Nam"
+    },
+    {
+      "id": 3,
+      "product_name": "Quyết",
+      "price": 120000,
+      "from": "Bắc Giang"
+    },
+    {
+      "product_name": "Bưởi 5 cân",
+      "price": "12",
+      "from": "Hà Nội",
+      "id": 4
+    }
+  ],
+  "users": []
+}
